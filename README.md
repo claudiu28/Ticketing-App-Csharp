@@ -53,11 +53,8 @@ Match administration (CRUD) is handled through a separate Next.js web module.
     <td align="center">
       <img src="SS/SS2.png" width="100%"/><br/>
     </td>
-    <td align="center">
-      <img src="SS/SS3.png" width="100%"/><br/>
-    </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center">
       <img src="SS/SS4.png" width="100%"/><br/>
     </td>
@@ -72,7 +69,13 @@ Match administration (CRUD) is handled through a separate Next.js web module.
     <td align="center">
       <img src="SS/SS8.png" width="100%"/><br/>
     </td>
+  
+  </tr>
+  <tr>
     <td align="center">
+      <img src="SS/SS3.png" width="100%"/><br/>
+    </td>
+     <td align="center">
       <img src="SS/SS9.png" width="100%"/><br/>
     </td>
   </tr>
