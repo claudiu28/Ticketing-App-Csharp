@@ -1,0 +1,4 @@
+﻿{
+  "base.url": "http://localhost:5000/api/matches/",
+  "auth.url": "http://localhost:5000/api/auth/"
+}
